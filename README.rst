@@ -1,6 +1,6 @@
-#################
-Django Brightcove
-#################
+#############
+RevSquare GIT
+#############
 
 Manages git interactions on projects. Offers a few set of management commands to quickly synchronize code. This is mostly for usage of RevSquare's developpment teams.
 
